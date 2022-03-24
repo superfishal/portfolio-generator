@@ -1,0 +1,22 @@
+{
+  "name": "portfolio-generator",
+  "version": "1.0.0",
+  "description": "nodejs lesson",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/superfishal/portfolio-generator.git"
+  },
+  "author": "andy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/superfishal/portfolio-generator/issues"
+  },
+  "homepage": "https://github.com/superfishal/portfolio-generator#readme",
+  "dependencies": {
+    "inquirer": "^8.2.2"
+  }
+}
